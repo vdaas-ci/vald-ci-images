@@ -280,9 +280,9 @@ function handleMouseUp(evt) {
 <polygon fill="#f8f8f8" stroke="black" points="478,-619 16,-619 16,-466 478,-466 478,-619"/>
 <text text-anchor="start" x="24" y="-602.2" font-family="Times,serif" font-size="16.00">File: discoverer</text>
 <text text-anchor="start" x="24" y="-584.2" font-family="Times,serif" font-size="16.00">type=threadcreate</text>
-<text text-anchor="start" x="24" y="-566.2" font-family="Times,serif" font-size="16.00">url=http://10.42.1.3:6060/debug/pprof</text>
+<text text-anchor="start" x="24" y="-566.2" font-family="Times,serif" font-size="16.00">url=http://10.42.0.3:6060/debug/pprof</text>
 <text text-anchor="start" x="24" y="-548.2" font-family="Times,serif" font-size="16.00">Type: threadcreate</text>
-<text text-anchor="start" x="24" y="-530.2" font-family="Times,serif" font-size="16.00">Time: 2025&#45;06&#45;26 02:12:02 UTC</text>
+<text text-anchor="start" x="24" y="-530.2" font-family="Times,serif" font-size="16.00">Time: 2025&#45;06&#45;27 08:21:02 UTC</text>
 <text text-anchor="start" x="24" y="-512.2" font-family="Times,serif" font-size="16.00">Showing nodes accounting for 125, 100% of 125 total</text>
 <text text-anchor="start" x="24" y="-475.2" font-family="Times,serif" font-size="16.00">See https://git.io/JfYMW for how to read the graph</text>
 </a>

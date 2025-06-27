@@ -280,10 +280,10 @@ function handleMouseUp(evt) {
 <polygon fill="#f8f8f8" stroke="black" points="478,-619 16,-619 16,-466 478,-466 478,-619"/>
 <text text-anchor="start" x="24" y="-602.2" font-family="Times,serif" font-size="16.00">File: lb</text>
 <text text-anchor="start" x="24" y="-584.2" font-family="Times,serif" font-size="16.00">type=threadcreate</text>
-<text text-anchor="start" x="24" y="-566.2" font-family="Times,serif" font-size="16.00">url=http://10.42.2.3:6060/debug/pprof</text>
+<text text-anchor="start" x="24" y="-566.2" font-family="Times,serif" font-size="16.00">url=http://10.42.2.4:6060/debug/pprof</text>
 <text text-anchor="start" x="24" y="-548.2" font-family="Times,serif" font-size="16.00">Type: threadcreate</text>
-<text text-anchor="start" x="24" y="-530.2" font-family="Times,serif" font-size="16.00">Time: 2025&#45;06&#45;26 02:12:02 UTC</text>
-<text text-anchor="start" x="24" y="-512.2" font-family="Times,serif" font-size="16.00">Showing nodes accounting for 138, 100% of 138 total</text>
+<text text-anchor="start" x="24" y="-530.2" font-family="Times,serif" font-size="16.00">Time: 2025&#45;06&#45;27 08:21:02 UTC</text>
+<text text-anchor="start" x="24" y="-512.2" font-family="Times,serif" font-size="16.00">Showing nodes accounting for 141, 100% of 141 total</text>
 <text text-anchor="start" x="24" y="-475.2" font-family="Times,serif" font-size="16.00">See https://git.io/JfYMW for how to read the graph</text>
 </a>
 </g>
@@ -291,11 +291,11 @@ function handleMouseUp(evt) {
 <!-- N1 -->
 <g id="node1" class="node">
 <title>N1</title>
-<g id="a_node1"><a xlink:title="&lt;unknown&gt; (138)">
+<g id="a_node1"><a xlink:title="&lt;unknown&gt; (141)">
 <polygon fill="#edd5d5" stroke="#b20000" points="680.5,-585.5 495.5,-585.5 495.5,-499.5 680.5,-499.5 680.5,-585.5"/>
 <text text-anchor="middle" x="588" y="-562.3" font-family="Times,serif" font-size="24.00">&lt;unknown&gt;</text>
-<text text-anchor="middle" x="588" y="-536.3" font-family="Times,serif" font-size="24.00">120 (86.96%)</text>
-<text text-anchor="middle" x="588" y="-510.3" font-family="Times,serif" font-size="24.00">of 138 (100%)</text>
+<text text-anchor="middle" x="588" y="-536.3" font-family="Times,serif" font-size="24.00">123 (87.23%)</text>
+<text text-anchor="middle" x="588" y="-510.3" font-family="Times,serif" font-size="24.00">of 141 (100%)</text>
 </a>
 </g>
 </g>
@@ -303,11 +303,11 @@ function handleMouseUp(evt) {
 <g id="node4" class="node">
 <title>N4</title>
 <g id="a_node4"><a xlink:title="runtime.ensureSigM.func1 (18)">
-<polygon fill="#ede4dd" stroke="#b2733e" points="629.5,-415 546.5,-415 546.5,-371 629.5,-371 629.5,-415"/>
+<polygon fill="#ede4de" stroke="#b27540" points="629.5,-415 546.5,-415 546.5,-371 629.5,-371 629.5,-415"/>
 <text text-anchor="middle" x="588" y="-404.6" font-family="Times,serif" font-size="8.00">runtime</text>
 <text text-anchor="middle" x="588" y="-395.6" font-family="Times,serif" font-size="8.00">ensureSigM</text>
 <text text-anchor="middle" x="588" y="-386.6" font-family="Times,serif" font-size="8.00">func1</text>
-<text text-anchor="middle" x="588" y="-377.6" font-family="Times,serif" font-size="8.00">0 of 18 (13.04%)</text>
+<text text-anchor="middle" x="588" y="-377.6" font-family="Times,serif" font-size="8.00">0 of 18 (12.77%)</text>
 </a>
 </g>
 </g>
@@ -315,8 +315,8 @@ function handleMouseUp(evt) {
 <g id="edge1" class="edge">
 <title>N1&#45;&gt;N4</title>
 <g id="a_edge1"><a xlink:title="&lt;unknown&gt; &#45;&gt; runtime.ensureSigM.func1 (18)">
-<path fill="none" stroke="#b2733e" d="M588,-499.23C588,-475.78 588,-447.11 588,-425.61"/>
-<polygon fill="#b2733e" stroke="#b2733e" points="591.5,-425.39 588,-415.39 584.5,-425.39 591.5,-425.39"/>
+<path fill="none" stroke="#b27540" d="M588,-499.23C588,-475.78 588,-447.11 588,-425.61"/>
+<polygon fill="#b27540" stroke="#b27540" points="591.5,-425.39 588,-415.39 584.5,-425.39 591.5,-425.39"/>
 </a>
 </g>
 <g id="a_edge1&#45;label"><a xlink:title="&lt;unknown&gt; &#45;&gt; runtime.ensureSigM.func1 (18)">
@@ -328,10 +328,10 @@ function handleMouseUp(evt) {
 <g id="node2" class="node">
 <title>N2</title>
 <g id="a_node2"><a xlink:title="runtime.allocm (18)">
-<polygon fill="#ede4dd" stroke="#b2733e" points="643,-59 533,-59 533,0 643,0 643,-59"/>
+<polygon fill="#ede4de" stroke="#b27540" points="643,-59 533,-59 533,0 643,0 643,-59"/>
 <text text-anchor="middle" x="588" y="-43" font-family="Times,serif" font-size="15.00">runtime</text>
 <text text-anchor="middle" x="588" y="-26" font-family="Times,serif" font-size="15.00">allocm</text>
-<text text-anchor="middle" x="588" y="-9" font-family="Times,serif" font-size="15.00">18 (13.04%)</text>
+<text text-anchor="middle" x="588" y="-9" font-family="Times,serif" font-size="15.00">18 (12.77%)</text>
 </a>
 </g>
 </g>
@@ -339,10 +339,10 @@ function handleMouseUp(evt) {
 <g id="node3" class="node">
 <title>N3</title>
 <g id="a_node3"><a xlink:title="runtime.LockOSThread (18)">
-<polygon fill="#ede4dd" stroke="#b2733e" points="629.5,-320 546.5,-320 546.5,-284 629.5,-284 629.5,-320"/>
+<polygon fill="#ede4de" stroke="#b27540" points="629.5,-320 546.5,-320 546.5,-284 629.5,-284 629.5,-320"/>
 <text text-anchor="middle" x="588" y="-309.1" font-family="Times,serif" font-size="8.00">runtime</text>
 <text text-anchor="middle" x="588" y="-300.1" font-family="Times,serif" font-size="8.00">LockOSThread</text>
-<text text-anchor="middle" x="588" y="-291.1" font-family="Times,serif" font-size="8.00">0 of 18 (13.04%)</text>
+<text text-anchor="middle" x="588" y="-291.1" font-family="Times,serif" font-size="8.00">0 of 18 (12.77%)</text>
 </a>
 </g>
 </g>
@@ -350,10 +350,10 @@ function handleMouseUp(evt) {
 <g id="node6" class="node">
 <title>N6</title>
 <g id="a_node6"><a xlink:title="runtime.startTemplateThread (18)">
-<polygon fill="#ede4dd" stroke="#b2733e" points="637.5,-233 538.5,-233 538.5,-197 637.5,-197 637.5,-233"/>
+<polygon fill="#ede4de" stroke="#b27540" points="637.5,-233 538.5,-233 538.5,-197 637.5,-197 637.5,-233"/>
 <text text-anchor="middle" x="588" y="-222.1" font-family="Times,serif" font-size="8.00">runtime</text>
 <text text-anchor="middle" x="588" y="-213.1" font-family="Times,serif" font-size="8.00">startTemplateThread</text>
-<text text-anchor="middle" x="588" y="-204.1" font-family="Times,serif" font-size="8.00">0 of 18 (13.04%)</text>
+<text text-anchor="middle" x="588" y="-204.1" font-family="Times,serif" font-size="8.00">0 of 18 (12.77%)</text>
 </a>
 </g>
 </g>
@@ -361,8 +361,8 @@ function handleMouseUp(evt) {
 <g id="edge2" class="edge">
 <title>N3&#45;&gt;N6</title>
 <g id="a_edge2"><a xlink:title="runtime.LockOSThread &#45;&gt; runtime.startTemplateThread (18)">
-<path fill="none" stroke="#b2733e" d="M588,-283.8C588,-272.16 588,-256.55 588,-243.24"/>
-<polygon fill="#b2733e" stroke="#b2733e" points="591.5,-243.18 588,-233.18 584.5,-243.18 591.5,-243.18"/>
+<path fill="none" stroke="#b27540" d="M588,-283.8C588,-272.16 588,-256.55 588,-243.24"/>
+<polygon fill="#b27540" stroke="#b27540" points="591.5,-243.18 588,-233.18 584.5,-243.18 591.5,-243.18"/>
 </a>
 </g>
 <g id="a_edge2&#45;label"><a xlink:title="runtime.LockOSThread &#45;&gt; runtime.startTemplateThread (18)">
@@ -374,8 +374,8 @@ function handleMouseUp(evt) {
 <g id="edge3" class="edge">
 <title>N4&#45;&gt;N3</title>
 <g id="a_edge3"><a xlink:title="runtime.ensureSigM.func1 &#45;&gt; runtime.LockOSThread (18)">
-<path fill="none" stroke="#b2733e" d="M588,-370.91C588,-358.78 588,-343.41 588,-330.36"/>
-<polygon fill="#b2733e" stroke="#b2733e" points="591.5,-330.07 588,-320.07 584.5,-330.07 591.5,-330.07"/>
+<path fill="none" stroke="#b27540" d="M588,-370.91C588,-358.78 588,-343.41 588,-330.36"/>
+<polygon fill="#b27540" stroke="#b27540" points="591.5,-330.07 588,-320.07 584.5,-330.07 591.5,-330.07"/>
 </a>
 </g>
 <g id="a_edge3&#45;label"><a xlink:title="runtime.ensureSigM.func1 &#45;&gt; runtime.LockOSThread (18)">
@@ -387,10 +387,10 @@ function handleMouseUp(evt) {
 <g id="node5" class="node">
 <title>N5</title>
 <g id="a_node5"><a xlink:title="runtime.newm (18)">
-<polygon fill="#ede4dd" stroke="#b2733e" points="629.5,-146 546.5,-146 546.5,-110 629.5,-110 629.5,-146"/>
+<polygon fill="#ede4de" stroke="#b27540" points="629.5,-146 546.5,-146 546.5,-110 629.5,-110 629.5,-146"/>
 <text text-anchor="middle" x="588" y="-135.1" font-family="Times,serif" font-size="8.00">runtime</text>
 <text text-anchor="middle" x="588" y="-126.1" font-family="Times,serif" font-size="8.00">newm</text>
-<text text-anchor="middle" x="588" y="-117.1" font-family="Times,serif" font-size="8.00">0 of 18 (13.04%)</text>
+<text text-anchor="middle" x="588" y="-117.1" font-family="Times,serif" font-size="8.00">0 of 18 (12.77%)</text>
 </a>
 </g>
 </g>
@@ -398,8 +398,8 @@ function handleMouseUp(evt) {
 <g id="edge4" class="edge">
 <title>N5&#45;&gt;N2</title>
 <g id="a_edge4"><a xlink:title="runtime.newm &#45;&gt; runtime.allocm (18)">
-<path fill="none" stroke="#b2733e" d="M588,-109.75C588,-98.6 588,-83.63 588,-69.7"/>
-<polygon fill="#b2733e" stroke="#b2733e" points="591.5,-69.33 588,-59.33 584.5,-69.33 591.5,-69.33"/>
+<path fill="none" stroke="#b27540" d="M588,-109.75C588,-98.6 588,-83.63 588,-69.7"/>
+<polygon fill="#b27540" stroke="#b27540" points="591.5,-69.33 588,-59.33 584.5,-69.33 591.5,-69.33"/>
 </a>
 </g>
 <g id="a_edge4&#45;label"><a xlink:title="runtime.newm &#45;&gt; runtime.allocm (18)">
@@ -411,8 +411,8 @@ function handleMouseUp(evt) {
 <g id="edge5" class="edge">
 <title>N6&#45;&gt;N5</title>
 <g id="a_edge5"><a xlink:title="runtime.startTemplateThread &#45;&gt; runtime.newm (18)">
-<path fill="none" stroke="#b2733e" d="M588,-196.8C588,-185.16 588,-169.55 588,-156.24"/>
-<polygon fill="#b2733e" stroke="#b2733e" points="591.5,-156.18 588,-146.18 584.5,-156.18 591.5,-156.18"/>
+<path fill="none" stroke="#b27540" d="M588,-196.8C588,-185.16 588,-169.55 588,-156.24"/>
+<polygon fill="#b27540" stroke="#b27540" points="591.5,-156.18 588,-146.18 584.5,-156.18 591.5,-156.18"/>
 </a>
 </g>
 <g id="a_edge5&#45;label"><a xlink:title="runtime.startTemplateThread &#45;&gt; runtime.newm (18)">
